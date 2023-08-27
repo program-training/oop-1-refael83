@@ -1,8 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11632095&assignment_repo_type=AssignmentRepo)
+ [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11632095&assignment_repo_type=AssignmentRepo)
 # תרגול תכנות מונחה עצמים
 
 ## 1. Rectangle - מלבן
-צור מחלקה בשם Rectangle המקבלת את הפרמטרים רוחב וגובה בבנאי. המחלקה צריכה להכיל מתודה בשם `area` המחזירה את שטח המלבן.
+ צור מחלקה בשם Rectangle המקבלת את הפרמטרים רוחב וגובה בבנאי. המחלקה צריכה להכיל מתודה בשם `area` המחזירה את שטח המלבן.
 
 ## 2. Square - ריבוע
 הרחב את מחלקת Rectangle מהתרגיל הראשון ליצירת מחלקה בשם Square. המחלקה Square צריכה לקבל רק פרמטר אחד ב`constructor`: אורך הצלע. צור מתודה `area` המחשבת את שטח הריבוע.
